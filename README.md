@@ -1,4 +1,3 @@
-# 2048-py
 # 2048 Game 🎮
 
 A Python implementation of the classic 2048 puzzle game using Pygame.
