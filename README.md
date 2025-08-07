@@ -6,8 +6,7 @@ A Python implementation of the classic 2048 puzzle game using Pygame.
 
 ## Table of Contents
 - [Features](#features-)
-- [Installation](#installation-)
-- [How to Play](#how-to-play-)
+- [Setup](#installation-)
 - [Project Structure](#project-structure-)
 - [Implementation Details](#implementation-details-)
 - [Future Enhancements](#future-enhancements-)
